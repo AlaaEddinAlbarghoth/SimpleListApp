@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleListApp</string>
+    <string name="download_json_file">Download Json File</string>
+</resources>
